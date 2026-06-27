@@ -553,6 +553,7 @@
   function initLangToggle() {
     const btn = document.getElementById("lang-toggle");
     updateLangButton(btn);
+    updateSubtitle();
     btn.addEventListener("click", () => {
       currentLang = currentLang === "en" ? "zh" : "en";
       localStorage.setItem(LANG_KEY, currentLang);
