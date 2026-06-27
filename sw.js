@@ -1,5 +1,5 @@
 // Service Worker for offline caching
-const CACHE_NAME = "maui-trip-v1";
+const CACHE_NAME = "maui-trip-v2";
 const ASSETS_TO_CACHE = [
   "/",
   "/index.html",
