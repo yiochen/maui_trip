@@ -204,7 +204,7 @@
               lng: -156.4462,
               description: {
                 en: "Early morning visit (10 min drive from resort). Known as 'Turtle Town' — one of the best spots to see Hawaiian green sea turtles resting on the sand and swimming near shore.",
-                zh: "清晨前往（离度假村10分钟车程）。被称为"海龟小镇"——观看夏威夷绿海龟在沙滩上休息和近岸游泳的最佳地点之一。",
+                zh: "清晨前往（离度假村10分钟车程）。被称为\u201C海龟小镇\u201D——观看夏威夷绿海龟在沙滩上休息和近岸游泳的最佳地点之一。",
               },
               image:
                 "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=600&h=300&fit=crop",
